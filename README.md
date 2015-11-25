@@ -1,2 +1,1 @@
-# django_angular
-Django with Angular with uwsgi deployment
+This is a django application that will serve for my learning. 
